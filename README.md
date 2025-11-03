@@ -7,3 +7,6 @@ if you wanna, go check out my work either on [youtube](https://www.youtube.com/@
 
 ## owner of [hafp company](https://www.roblox.com/communities/33547870/hafp-company), and founder of [loopwork](https://www.roblox.com/communities/35860214/loopwrk)
 <img src="https://github.com/hafpcuh/hafpcuh/blob/a59e8de9a9e3185f3c8e9bfa944c674d4c76e84d/assets/hafpcompanyicon.png"> <img src="https://github.com/hafpcuh/hafpcuh/blob/a59e8de9a9e3185f3c8e9bfa944c674d4c76e84d/assets/loopwrkicon.png">
+
+<br/>
+<sup>pfp isn't made by me, it's by [one of my friends](https://www.youtube.com/@NotebookSR)</sup>
