@@ -3,7 +3,7 @@
 ### hello
 
 i am **hafp**, a roblox programmer with 3-4 years of experience (i'm also an animator, sfx artist, and more)<br/>
-if you wanna, go check out my work socials listed
+if you wanna, go check out my work on my socials listed
 
 ## socials
 [![DevForum](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hafp_)
