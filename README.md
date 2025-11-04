@@ -2,7 +2,7 @@
 
 ### helo <img src="assets/helo.gif" width="25px" height="25px">
 
-my names **hafp**, and i'm a **roblox passion programmer** with around **3-4 years of experience**, and i'm also an animator, sfx artist, and composer. i'm *somewhat* known for making a game called **[obsecura](https://www.youtube.com/watch?v=n0EQxMZmtJs)**, and known for making **[this song](https://www.youtube.com/watch?v=DufHA8k4N9U)**
+my names **hafp**, and i'm a **roblox passion programmer** with around **3-4 years of experience**, and i'm also a roblox animator, sfx artist, and composer. i'm *somewhat* known for making a game called **[obsecura](https://www.youtube.com/watch?v=n0EQxMZmtJs)**, and known for making **[this song](https://www.youtube.com/watch?v=DufHA8k4N9U)**
 
 i'm also the **owner of [hafp company](https://www.roblox.com/communities/33547870/hafp-company)**, and **founder of [loopwork](https://www.roblox.com/communities/35860214/loopwrk)**
 <div>
