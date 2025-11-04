@@ -1,30 +1,29 @@
 # about me
 
-### hello
+### helo <img src="assets/helo.gif" width="25px" height="25px">
 
-i am **hafp**, a roblox programmer with 3-4 years of experience (i'm also an animator, sfx artist, and more)<br/>
-if you wanna, go check out my work on my socials listed
+my names **hafp**, and i'm a **roblox passion programmer** with around **3-4 years of experience**, and i'm also an animator, sfx artist, and composer. i'm *somewhat* known for making a game called **[obsecura](https://www.youtube.com/watch?v=n0EQxMZmtJs)**, and known for making **[this song](https://www.youtube.com/watch?v=DufHA8k4N9U)**
+
+i'm also the **owner of [hafp company](https://www.roblox.com/communities/33547870/hafp-company)**, and **founder of [loopwork](https://www.roblox.com/communities/35860214/loopwrk)**
+<div>
+  <img src="assets/hafpcompanyicon.png" width="100px" height="100px">
+  <img src="assets/loopwrkicon.png" width="100px" height="100px">
+</div>
+
+<br>
+if you wanna, you can go see my recent/past work on my socials listed below this section
 
 ## socials
-[![DevForum](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hafp_)
-[![DevForum](https://img.shields.io/badge/roblox-black?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/3391729290/profile)
+<div> 
+  <a href="https://www.roblox.com/users/3391729290/profile"><img src="https://img.shields.io/badge/roblox-black?style=for-the-badge&logo=roblox&logoColor=white"></a>
+  <a href="https://www.youtube.com/@hafp_" ><img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</div>
 
-## i currently know:
-<div>
-  <img src="assets/robloxluau.png" hspace="10">
+## currently know:
+<div hspace="10">
+  <img src="assets/robloxluau.png">
   <img src="assets/rojo.png">
 </div>
 
-## owner of hafp company, and founder of loopwork
-<div>
-  <a href="https://www.roblox.com/communities/33547870/hafp-company" target="_black">
-      <img src="assets/hafpcompanyicon.png" hspace="10">
-  </a>
-
-   <a href="https://www.roblox.com/communities/35860214/loopwrk" target="_black">
-      <img src="assets/loopwrkicon.png">
-  </a>
-</div>
-
 ##
-<sup>pfp isn't made by me, it's by one of my friends, aka. https://www.youtube.com/@NotebookSR</sup>
+<sup>also, my pfp isn't made by me, it's by one of my [friends](https://www.youtube.com/@NotebookSR)</sup>
