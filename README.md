@@ -26,4 +26,4 @@ if you wanna, you can go see my recent/past work on my socials listed below this
 </div>
 
 ##
-<sup>also, my pfp isn't made by me, it's by one of my [friends](https://www.youtube.com/@NotebookSR)</sup>
+<sup>also, my pfp isn't made by me, it's by yumscript, aka. one of my friends</sup>
