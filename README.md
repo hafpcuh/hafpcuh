@@ -2,16 +2,20 @@
 
 ### helo <img src="assets/helo.gif" width="25px" height="25px">
 
-my names **hafp**, and i'm a **roblox passion programmer** with around **3-4 years of experience**, and i'm also a roblox animator, sound designer, and composer. i'm *somewhat* known for making a game called **[obsecura](https://www.youtube.com/watch?v=n0EQxMZmtJs)**, and known for making **[this song](https://www.youtube.com/watch?v=DufHA8k4N9U)**
+my names hafp, i'm 17 years old, and i'm a **roblox passion programmer** with around **3-4 years of experience**, and i'm also a roblox animator, sound designer, composer, and a ui designer (sort of).
 
-i'm also the **owner of [hafp company](https://www.roblox.com/communities/33547870/hafp-company)**, and **founder of [loopwrk](https://www.roblox.com/communities/35860214/loopwrk)**
+i'm *somewhat* known for making a game called **[obsecura](https://www.youtube.com/watch?v=n0EQxMZmtJs)** (a game inspired by [the rake](https://www.roblox.com/games/2413927524/The-Rake-REMASTERED)),<br/>
+and i'm also the **owner of [hafp company](https://www.roblox.com/communities/33547870/hafp-company)** <img src="assets/hafpcompanyicon.png" width="15px" height="15px">,and **founder of [loopwrk](https://www.roblox.com/communities/35860214/loopwrk)** <img src="assets/loopwrkicon.png" width="15px" height="15px">
+
+##
+if you wanna, you can go see my recent/past work on my socials<br>
+although, **i am currently _NOT_ interested in getting hired**, unless i am interested, i will reach out on my own
+
+## currently know:
 <div>
-  <img src="assets/hafpcompanyicon.png" width="100px" height="100px">
-  <img src="assets/loopwrkicon.png" width="100px" height="100px">
+  <img src="assets/robloxluau.png">
+  <img src="assets/rojo.png">
 </div>
-
-<br>
-if you wanna, you can go see my recent/past work on my socials listed below this section
 
 ## socials
 <div> 
@@ -19,11 +23,12 @@ if you wanna, you can go see my recent/past work on my socials listed below this
   <a href="https://www.youtube.com/@hafp_" ><img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
 
-## currently know:
-<div hspace="10">
-  <img src="assets/robloxluau.png">
-  <img src="assets/rojo.png">
-</div>
+## contact me
+- **discord**: hafp
+- **gmail**: hafp305@gmail.com
+
+> [!NOTE]
+> if you're contacting me through gmail, it might take a few days/weeks for me to reply, so please be patient
 
 ##
-<sup>also, my pfp isn't made by me, it's by yumscript, aka. one of my friends</sup>
+<sup>big thanks to [yumscript](https://www.roblox.com/users/537626147/profile) for the pfp</sup>
