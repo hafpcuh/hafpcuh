@@ -9,12 +9,13 @@ and i'm also the **owner of [hafp company](https://www.roblox.com/communities/33
 
 ##
 if you wanna, you can go see my recent/past work on my socials<br>
-although, **i am currently _NOT_ interested in getting hired**, unless i am interested, i will reach out on my own
+although, **i am currently _NOT_ interested in getting hired.** if i am interested, i will reach out on my own
 
 ## currently know:
 <div>
-  <img src="assets/robloxluau.png">
-  <img src="assets/rojo.png">
+  <img src="assets/robloxluau.png" width="64px" height="64px">
+  <img src="assets/rojo.png" width="64px" height="64px">
+  <img src="assets/wallyicon.png" width="64px" height="64px">
 </div>
 
 ## socials
