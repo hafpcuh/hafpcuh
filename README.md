@@ -26,6 +26,3 @@ although, **i am currently _NOT_ interested in getting hired.** if i am interest
 
 > [!NOTE]
 > if you're contacting me through gmail, it will take a few days/weeks for me to reply
-
-##
-<sup>big thanks to [yumscript](https://www.roblox.com/users/537626147/profile) for the pfp</sup>
