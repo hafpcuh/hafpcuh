@@ -10,11 +10,11 @@ and i'm also the **owner of [hafp company](https://www.roblox.com/communities/33
 ### contributed to
 * **[combat warriors](https://www.roblox.com/games/4282985734/Combat-Warriors):** sfx artist
 
-##
-if you wanna, you can go see my recent/past work on my socials<br>
-although, **i am currently _NOT_ interested in getting hired.** if i am interested, i will reach out on my own
+## [portfolio](https://discord.gg/PwJA6rFfac)
+### i am currently _NOT_ interested in getting hired.
+if i am interested, i will reach out on my own
 
-you can still try dm'ing/emailing me to work on your game if you think your game has potential, <br> maybe i'll be interested, who knows really
+you can still try dm'ing/emailing me to work on your game if you think your game has potential, <br> maybe i'll be interested once i know about your game, who knows really
 
 ## socials
 <div> 
