@@ -14,6 +14,8 @@ and i'm also the **owner of [hafp company](https://www.roblox.com/communities/33
 if you wanna, you can go see my recent/past work on my socials<br>
 although, **i am currently _NOT_ interested in getting hired.** if i am interested, i will reach out on my own
 
+you can still try dm'ing/emailing me to work on your game if you think your game has potential, <br> maybe i'll be interested, who knows really
+
 ## socials
 <div> 
   <a href="https://www.roblox.com/users/3391729290/profile"><img src="https://img.shields.io/badge/roblox-black?style=for-the-badge&logo=roblox&logoColor=white"></a>
