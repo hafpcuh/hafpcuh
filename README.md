@@ -2,7 +2,7 @@
 
 ### helo <img src="assets/helo.gif" width="25px" height="25px">
 
-my names hafp, i'm 17 years old, and i'm a **roblox passion programmer** with around **3-4 years of experience**, and i'm also a roblox animator, sfx artist, composer, and a ui designer (sort of).
+my names hafp, i'm 17 years old, and i'm a **roblox passionate fullstack programmer** with around **4-5 years of experience**. <br> i'm also a roblox animator, sfx artist, composer, and a ui designer (sort of).
 
 i'm *somewhat* known for making a game called **[obsecura](https://www.youtube.com/watch?v=n0EQxMZmtJs)** (a game inspired by [the rake](https://www.roblox.com/games/2413927524/The-Rake-REMASTERED)),<br/>
 and i'm also the **owner of [hafp company](https://www.roblox.com/communities/33547870/hafp-company)** <img src="assets/hafpcompanyicon.png" width="18px" height="18px">, and **founder of [loopwrk](https://www.roblox.com/communities/35860214/loopwrk)** <img src="assets/loopwrkicon.png" width="18px" height="18px">
@@ -27,4 +27,5 @@ you can still try dm'ing/emailing me to work on your game if you think your game
 - **gmail**: hafp305@gmail.com
 
 > [!NOTE]
-> if you're contacting me through gmail, it will take a few days/weeks for me to reply
+> **if you're contacting me through gmail, it will take a few days/weeks for me to reply**<br>
+> i heavily recommend you to dm me on discord, if you want a fast reply
