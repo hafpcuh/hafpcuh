@@ -7,6 +7,8 @@ my names hafp, i'm 17 years old, and i'm a **roblox passionate fullstack program
 i'm *somewhat* known for making a game called **[obsecura](https://www.youtube.com/watch?v=n0EQxMZmtJs)** (a game inspired by [the rake](https://www.roblox.com/games/2413927524/The-Rake-REMASTERED)),<br/>
 and i'm also the **owner of [hafp company](https://www.roblox.com/communities/33547870/hafp-company)** <img src="assets/hafpcompanyicon.png" width="18px" height="18px">, and **founder of [loopwrk](https://www.roblox.com/communities/35860214/loopwrk)** <img src="assets/loopwrkicon.png" width="18px" height="18px">
 
+more info can be found on my portfolio
+
 ### contributed to
 * **[combat warriors](https://www.roblox.com/games/4282985734/Combat-Warriors):** sfx artist
 
@@ -24,7 +26,7 @@ you can still try dm'ing/emailing me to work on your game if you think your game
 
 ## contact me
 - **discord**: hafp
-- **gmail**: hafp305@gmail.com
+- **gmail**: hafpbusiness@gmail.com
 
 > [!NOTE]
 > **if you're contacting me through gmail, it will take a few days/weeks for me to reply**<br>
