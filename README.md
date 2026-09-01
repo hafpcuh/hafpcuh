@@ -11,6 +11,7 @@ more info can be found on my portfolio
 
 ### contributed to
 * **[combat warriors](https://www.roblox.com/games/4282985734/Combat-Warriors):** sfx artist
+* **[build a blue lock squad](https://www.roblox.com/games/112619156837009/Build-A-Blue-Lock-Squad):** animator, vfx artist, sfx artist and ui artist
 
 ### [portfolio](https://discord.gg/PwJA6rFfac) | [public portfolio](https://x.com/_hafp)
 > [!IMPORTANT]
