@@ -12,15 +12,15 @@ more info can be found on my portfolio
 ### contributed to
 * **[combat warriors](https://www.roblox.com/games/4282985734/Combat-Warriors):** sfx artist
 
-## [portfolio](https://discord.gg/PwJA6rFfac)
+### [portfolio](https://discord.gg/PwJA6rFfac) | [public portfolio](https://x.com/_hafp)
+> [!IMPORTANT]
+> public portfolio only contains my best work, and work i personally like
+
 ### i am currently _NOT_ interested in getting hired.
 if i am interested, i will reach out on my own
 
 > [!NOTE]
 > you can still try dm'ing/emailing me to work on your game if you think your game has potential, <br> maybe i'll be interested once i know about your game, who knows really
-
-### [public portfolio](https://x.com/_hafp)
-> ^^^ only contains work, that i personally like
 
 ## socials
 <div> 
