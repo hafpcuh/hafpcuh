@@ -25,8 +25,9 @@ if i am interested, i will reach out on my own
 
 ## socials
 <div> 
-  <a href="https://www.roblox.com/users/3391729290/profile"><img src="https://img.shields.io/badge/roblox-black?style=for-the-badge&logo=roblox&logoColor=white"></a>
   <a href="https://www.youtube.com/@hafp_" ><img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://x.com/_hafp" ><img src="https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://www.roblox.com/users/3391729290/profile"><img src="https://img.shields.io/badge/roblox-blue?style=for-the-badge&logo=roblox&logoColor=white"></a>
 </div>
 
 ## contact me
